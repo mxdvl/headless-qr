@@ -9,18 +9,18 @@ const unescaped = unescape(encoded);
 
 const output = `
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xx       x  xx xx x   xx       xx
-xx xxxxx x xx xxx  x xxx xxxxx xx
-xx x   x xx xx xxxx    x x   x xx
-xx x   x x  x xx  xxx xx x   x xx
-xx x   x xxx x x x  x xx x   x xx
-xx xxxxx xxx   xx xx   x xxxxx xx
-xx       x x x x x x x x       xx
-xxxxxxxxxx  xxx x  xx xxxxxxxxxxx
-xx x  x   x  xxxxx xxxxx xx x  xx
-xxxx   xxxxxxx x  xx   x   xxx xx
-xxxx x x x    x   x  xxx xxx  xxx
+x███████████████████████████████x
+x█       █  ██ ██ █   ██       █x
+x█ █████ █ ██ ███  █ ███ █████ █x
+x█ █   █ ██ ██ ████    █ █   █ █x
+x█ █   █ █  █ ██  ███ ██ █   █ █x
+x█ █   █ ███ █ █ █  █ ██ █   █ █x
+x█ █████ ███   ██ ██   █ █████ █x
+x█       █ █ █ █ █ █ █ █       █x
+x█████████  ███ █  ██ ██████████x
+x█ █  █   █  █████ █████ ██ █  █x
+x███   ███████ █  ██   █   ███ █x
+x███ █ █ █    █   █  ███ ███  ██x
 xx  x xxxx  xxxx xx  xxx  x xx xx
 xx  xx x    x  x  xxxxxxxxx  xxxx
 xx x xx x  x x x x  x xx xxxx  xx
